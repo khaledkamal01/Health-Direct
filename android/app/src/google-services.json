@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405625792168",
+    "project_id": "health-direct-9fa3f",
+    "storage_bucket": "health-direct-9fa3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405625792168:android:96e4555ccf6b092adfc49d",
+        "android_client_info": {
+          "package_name": "com.example.health_direct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405625792168-etg653q7eon8gpbj0q5lvb84p75p9q8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA64EIIFJ9MFAocJVsMyuAFjum7345-DFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405625792168-etg653q7eon8gpbj0q5lvb84p75p9q8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
